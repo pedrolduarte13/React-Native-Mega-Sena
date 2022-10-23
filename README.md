@@ -1,5 +1,5 @@
 # Mega Sena - ReactNative (mini project) 
-<img src="./mega-sena.gif" width="256" style="border-radius: 6px">
+<img src="./mega-sena.gif" width="256">
 
 Mini projeto gerador de números aleatórios, estilo Mega-Sena, desenvolvido em React Native  para fins de prática, fixação de conceitos e aprimoramento da lógica.
 O código encontra-se comentado para programadores mais iniciantes possam compreender a lógica implementada e alguns paradgmas utilizados.
